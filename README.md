@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Senior%20Software%20Engineer&fontSize=60&animation=fadeIn&desc=Verem%20Dugeri%&descSize=30&descAlignY=65&fontAlignY=35" alt="Header"/>
 </div>
 
-I'm a passionate **Senior Software Enginner** with expertise in **Backend Engineering**. I love building innovative solutions that **help businesses solve problems** that **satisy customers**.
+I'm a passionate **Senior Software Enginner** with expertise in **Backend Engineering**. I love building innovative solutions that **help businesses solve problems** that **satisfy customers**.
 
 ### Languages
 
